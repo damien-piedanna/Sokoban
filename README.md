@@ -1,2 +1,2 @@
 # Sokoban
-Simple sokoban with JS
+> Simple [Sokoban](https://en.wikipedia.org/wiki/Sokoban) in JS
