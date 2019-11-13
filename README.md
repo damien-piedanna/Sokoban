@@ -1,2 +1,4 @@
 # Sokoban
-> Simple [Sokoban](https://en.wikipedia.org/wiki/Sokoban) in JS
+> AMU ~ IUT2 ~ JS
+
+[Sokoban](https://en.wikipedia.org/wiki/Sokoban) in JS
